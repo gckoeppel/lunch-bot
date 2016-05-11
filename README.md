@@ -24,7 +24,7 @@ Pro tip: Set up a cron job! For example, this will post the lunch menu every day
 
 ## Screenshot
 
-![Demo of the Slack integration](https://cldup.com/LUjNzTeRhi.png)
+![Demo of the Slack integration](http://i.imgur.com/b5p2Ye5.png)
 
 ## License
 
