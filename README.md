@@ -1,6 +1,10 @@
-# SV Restaurant Bot
+# Binz Restaurant Bot
 
-This is an adapted version of the [cafeteria bot](https://github.com/swissspidy/cafeteria-bot)
+This is an adapted version of the [cafeteria bot](https://github.com/swissspidy/cafeteria-bot).
+Currently posts the daily menus in your slack channel of these restaurants:
+  - [Swisscom Restaurant Binz](http://swisscom-binz.sv-group.ch/de.html) (SV Restaurant)
+  - [Swiss Life Restaurant Binz49](https://zfv.ch/de/microsites/swiss-life-restaurant-binz49/menueplan) (ZFV)
+  - [Binz 38](http://www.binz-38.ch/home/)
 
 ## Configuration
 
